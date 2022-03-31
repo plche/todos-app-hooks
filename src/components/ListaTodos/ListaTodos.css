@@ -1,0 +1,4 @@
+.lista_todos{
+    display: flex;
+    flex-direction: row;
+}

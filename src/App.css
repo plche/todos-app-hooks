@@ -1,2 +1,9 @@
-.App {
+.navigation {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.option {
+    margin: 10px;
 }
